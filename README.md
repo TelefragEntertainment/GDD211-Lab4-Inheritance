@@ -1,2 +1,2 @@
-# Lab4_Inheritence
+# Lab4_Inheritance
  
